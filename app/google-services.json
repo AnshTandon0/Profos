@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202793828212",
+    "project_id": "profosassignment",
+    "storage_bucket": "profosassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202793828212:android:054bb97f555fc5d4fab621",
+        "android_client_info": {
+          "package_name": "com.example.profosassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202793828212-heovdvgs3k91lu8dq24ueecgkoettgj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrXOMeNvWyhqO4TPU26Xyd2-pi_xn_gVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202793828212-heovdvgs3k91lu8dq24ueecgkoettgj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

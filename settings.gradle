@@ -1,0 +1,2 @@
+rootProject.name = "ProfosAssignment"
+include ':app'
